@@ -2748,11 +2748,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
 <pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
 <pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="57.15" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-27.94" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="57.15" y1="0" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="57.15" y1="0" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G230F128_B">
@@ -2868,11 +2869,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
 <pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
 <pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="57.15" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-27.94" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="57.15" y1="0" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="57.15" y1="0" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G230F32_B">
@@ -2988,11 +2990,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
 <pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
 <pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="57.15" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-27.94" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<wire x1="57.15" y1="0" x2="57.15" y2="-27.94" width="0.254" layer="94"/>
-<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="57.15" y1="0" x2="57.15" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G230F64_B">
@@ -3465,18 +3468,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F128_B">
@@ -3489,15 +3494,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F128_C">
@@ -3579,11 +3586,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F128_PWR">
@@ -3616,18 +3624,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F32_B">
@@ -3640,15 +3650,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F32_C">
@@ -3730,11 +3742,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F32_PWR">
@@ -3767,18 +3780,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F64_B">
@@ -3791,15 +3806,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F64_C">
@@ -3881,11 +3898,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G280F64_PWR">
@@ -3918,18 +3936,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F128_B">
@@ -3942,15 +3962,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F128_C">
@@ -3991,13 +4014,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F128_E">
@@ -4034,11 +4058,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F128_PWR">
@@ -4079,18 +4104,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F32_B">
@@ -4103,15 +4130,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F32_C">
@@ -4152,13 +4182,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F32_E">
@@ -4195,11 +4226,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F32_PWR">
@@ -4240,18 +4272,20 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" x="0" y="-12.7" length="middle" />
 <pin name="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" x="0" y="-15.24" length="middle" />
 <pin name="PA6/EBI_AD15/LEU1_RX#1" x="0" y="-17.78" length="middle" />
-<pin name="PA8/TIM2_CC0#0" x="0" y="-20.32" length="middle" />
-<pin name="PA9/TIM2_CC1#0" x="0" y="-22.86" length="middle" />
-<pin name="PA10/TIM2_CC2#0" x="0" y="-25.4" length="middle" />
-<pin name="PA12/TIM2_CC0#1" x="0" y="-27.94" length="middle" />
-<pin name="PA13/TIM2_CC1#1" x="0" y="-30.48" length="middle" />
-<pin name="PA14/TIM2_CC2#1" x="0" y="-33.02" length="middle" />
-<pin name="PA15/EBI_AD08" x="0" y="-35.56" length="middle" />
+<pin name="PA7/" x="0" y="-20.32" length="middle" />
+<pin name="PA8/TIM2_CC0#0" x="0" y="-22.86" length="middle" />
+<pin name="PA9/TIM2_CC1#0" x="0" y="-25.4" length="middle" />
+<pin name="PA10/TIM2_CC2#0" x="0" y="-27.94" length="middle" />
+<pin name="PA11/" x="0" y="-30.48" length="middle" />
+<pin name="PA12/TIM2_CC0#1" x="0" y="-33.02" length="middle" />
+<pin name="PA13/TIM2_CC1#1" x="0" y="-35.56" length="middle" />
+<pin name="PA14/TIM2_CC2#1" x="0" y="-38.1" length="middle" />
+<pin name="PA15/EBI_AD08" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.7917" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-38.1" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<wire x1="68.7917" y1="0" x2="68.7917" y2="-38.1" width="0.254" layer="94"/>
-<text x="5.08" y="-38.354" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.7917" y1="0" x2="68.7917" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F64_B">
@@ -4264,15 +4298,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="59.2667" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="59.2667" y1="0" x2="59.2667" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="59.2667" y1="0" x2="59.2667" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F64_C">
@@ -4313,13 +4350,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F64_E">
@@ -4356,11 +4394,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF6/TIM0_CC0#2/U0_TX#0" x="0" y="-17.78" length="middle" />
 <pin name="PF7/TIM0_CC1#2/U0_RX#0" x="0" y="-20.32" length="middle" />
 <pin name="PF8/TIM0_CC2#2" x="0" y="-22.86" length="middle" />
+<pin name="PF9/" x="0" y="-25.4" length="middle" />
 <wire x1="5.08" y1="0" x2="52.3875" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-25.4" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="52.3875" y1="0" x2="52.3875" y2="-25.4" width="0.254" layer="94"/>
-<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-27.94" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="52.3875" y1="0" x2="52.3875" y2="-27.94" width="0.254" layer="94"/>
+<text x="5.08" y="-28.194" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G290F64_PWR">
@@ -5150,15 +5189,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G880F128_C">
@@ -5304,15 +5345,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G880F32_C">
@@ -5458,15 +5501,17 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-40.64" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-40.64" width="0.254" layer="94"/>
+<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G880F64_C">
@@ -5612,15 +5657,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F128_C">
@@ -5661,13 +5709,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1/LCD_SEG29" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2/LCD_SEG30" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3/LCD_SEG31" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F128_E">
@@ -5776,15 +5825,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F32_C">
@@ -5825,13 +5877,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1/LCD_SEG29" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2/LCD_SEG30" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3/LCD_SEG31" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F32_E">
@@ -5940,15 +5993,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" x="0" y="-17.78" length="middle" />
 <pin name="PB7/LFXTAL_P/US1_CLK#0" x="0" y="-20.32" length="middle" />
 <pin name="PB8/LFXTAL_N/US1_CS#0" x="0" y="-22.86" length="middle" />
-<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-25.4" length="middle" />
-<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-27.94" length="middle" />
-<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-30.48" length="middle" />
-<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-33.02" length="middle" />
+<pin name="PB9/" x="0" y="-25.4" length="middle" />
+<pin name="PB10/" x="0" y="-27.94" length="middle" />
+<pin name="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" x="0" y="-30.48" length="middle" />
+<pin name="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" x="0" y="-33.02" length="middle" />
+<pin name="PB13/HFXTAL_P/LEU0_TX#1" x="0" y="-35.56" length="middle" />
+<pin name="PB14/HFXTAL_N/LEU0_RX#1" x="0" y="-38.1" length="middle" />
+<pin name="PB15/" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="66.1458" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-35.56" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<wire x1="66.1458" y1="0" x2="66.1458" y2="-35.56" width="0.254" layer="94"/>
-<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="66.1458" y1="0" x2="66.1458" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F64_C">
@@ -5989,13 +6045,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PD10/EBI_CS1/LCD_SEG29" x="0" y="-27.94" length="middle" />
 <pin name="PD11/EBI_CS2/LCD_SEG30" x="0" y="-30.48" length="middle" />
 <pin name="PD12/EBI_CS3/LCD_SEG31" x="0" y="-33.02" length="middle" />
-<pin name="PD14/I2C0_SDA#3" x="0" y="-35.56" length="middle" />
-<pin name="PD15/I2C0_SCL#3" x="0" y="-38.1" length="middle" />
+<pin name="PD13/" x="0" y="-35.56" length="middle" />
+<pin name="PD14/I2C0_SDA#3" x="0" y="-38.1" length="middle" />
+<pin name="PD15/I2C0_SCL#3" x="0" y="-40.64" length="middle" />
 <wire x1="5.08" y1="0" x2="68.2625" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-40.64" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<wire x1="68.2625" y1="0" x2="68.2625" y2="-40.64" width="0.254" layer="94"/>
-<text x="5.08" y="-40.894" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-43.18" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<wire x1="68.2625" y1="0" x2="68.2625" y2="-43.18" width="0.254" layer="94"/>
+<text x="5.08" y="-43.434" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32G890F64_E">
@@ -7333,11 +7390,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32GG295F1024_PWR">
@@ -7508,11 +7566,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32GG295F512_PWR">
@@ -10295,11 +10354,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32GG895F1024_PWR">
@@ -10470,11 +10530,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32GG895F512_PWR">
@@ -12692,11 +12753,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG295F128_PWR">
@@ -12867,11 +12929,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG295F256_PWR">
@@ -13042,11 +13105,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG295F64_PWR">
@@ -16005,11 +16069,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG895F128_PWR">
@@ -16180,11 +16245,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG895F256_PWR">
@@ -16355,11 +16421,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" x="0" y="-25.4" length="middle" />
 <pin name="PF10/U1_TX#1" x="0" y="-27.94" length="middle" />
 <pin name="PF11/U1_RX#1" x="0" y="-30.48" length="middle" />
+<pin name="PF12/" x="0" y="-33.02" length="middle" />
 <wire x1="5.08" y1="0" x2="125.412" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-33.02" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="125.412" y1="0" x2="125.412" y2="-33.02" width="0.254" layer="94"/>
-<text x="5.08" y="-33.274" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-35.56" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="125.412" y1="0" x2="125.412" y2="-35.56" width="0.254" layer="94"/>
+<text x="5.08" y="-35.814" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32LG895F64_PWR">
@@ -19539,11 +19606,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" x="0" y="-2.54" length="middle" />
 <pin name="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" x="0" y="-5.08" length="middle" />
 <pin name="PA2/CMU_CLK0#0/TIM0_CC2#0,1" x="0" y="-7.62" length="middle" />
+<pin name="PA8/" x="0" y="-10.16" length="middle" />
+<pin name="PA9/" x="0" y="-12.7" length="middle" />
+<pin name="PA10/" x="0" y="-15.24" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-10.16" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<text x="5.08" y="-10.414" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG222F16_B">
@@ -19640,11 +19710,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" x="0" y="-2.54" length="middle" />
 <pin name="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" x="0" y="-5.08" length="middle" />
 <pin name="PA2/CMU_CLK0#0/TIM0_CC2#0,1" x="0" y="-7.62" length="middle" />
+<pin name="PA8/" x="0" y="-10.16" length="middle" />
+<pin name="PA9/" x="0" y="-12.7" length="middle" />
+<pin name="PA10/" x="0" y="-15.24" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-10.16" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<text x="5.08" y="-10.414" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG222F32_B">
@@ -19741,11 +19814,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" x="0" y="-2.54" length="middle" />
 <pin name="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" x="0" y="-5.08" length="middle" />
 <pin name="PA2/CMU_CLK0#0/TIM0_CC2#0,1" x="0" y="-7.62" length="middle" />
+<pin name="PA8/" x="0" y="-10.16" length="middle" />
+<pin name="PA9/" x="0" y="-12.7" length="middle" />
+<pin name="PA10/" x="0" y="-15.24" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-10.16" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-10.16" width="0.254" layer="94"/>
-<text x="5.08" y="-10.414" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
+<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG222F8_B">
@@ -19846,11 +19922,15 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
 <pin name="PA6/GPIO_EM4WU1" x="0" y="-17.78" length="middle" />
+<pin name="PA8/" x="0" y="-20.32" length="middle" />
+<pin name="PA9/" x="0" y="-22.86" length="middle" />
+<pin name="PA10/" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F16_B">
@@ -19910,17 +19990,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG230F16_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F16_F">
@@ -19962,11 +20043,15 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
 <pin name="PA6/GPIO_EM4WU1" x="0" y="-17.78" length="middle" />
+<pin name="PA8/" x="0" y="-20.32" length="middle" />
+<pin name="PA9/" x="0" y="-22.86" length="middle" />
+<pin name="PA10/" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F32_B">
@@ -20026,17 +20111,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG230F32_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F32_F">
@@ -20078,11 +20164,15 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
 <pin name="PA6/GPIO_EM4WU1" x="0" y="-17.78" length="middle" />
+<pin name="PA8/" x="0" y="-20.32" length="middle" />
+<pin name="PA9/" x="0" y="-22.86" length="middle" />
+<pin name="PA10/" x="0" y="-25.4" length="middle" />
+<pin name="PA15/" x="0" y="-27.94" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-30.48" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-30.48" width="0.254" layer="94"/>
+<text x="5.08" y="-30.734" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F8_B">
@@ -20142,17 +20232,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG230F8_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG230F8_F">
@@ -20193,11 +20284,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA3/LES_ALTEX2" x="0" y="-10.16" length="middle" />
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
+<pin name="PA8/" x="0" y="-17.78" length="middle" />
+<pin name="PA9/" x="0" y="-20.32" length="middle" />
+<pin name="PA10/" x="0" y="-22.86" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-25.4" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F16_B">
@@ -20256,17 +20350,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG232F16_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F16_F">
@@ -20309,11 +20404,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA3/LES_ALTEX2" x="0" y="-10.16" length="middle" />
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
+<pin name="PA8/" x="0" y="-17.78" length="middle" />
+<pin name="PA9/" x="0" y="-20.32" length="middle" />
+<pin name="PA10/" x="0" y="-22.86" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-25.4" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F32_B">
@@ -20372,17 +20470,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG232F32_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F32_F">
@@ -20425,11 +20524,14 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <pin name="PA3/LES_ALTEX2" x="0" y="-10.16" length="middle" />
 <pin name="PA4/LES_ALTEX3" x="0" y="-12.7" length="middle" />
 <pin name="PA5/LES_ALTEX4" x="0" y="-15.24" length="middle" />
+<pin name="PA8/" x="0" y="-17.78" length="middle" />
+<pin name="PA9/" x="0" y="-20.32" length="middle" />
+<pin name="PA10/" x="0" y="-22.86" length="middle" />
 <wire x1="5.08" y1="0" x2="88.9" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-17.78" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="88.9" y1="0" x2="88.9" y2="-17.78" width="0.254" layer="94"/>
-<text x="5.08" y="-18.034" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-25.4" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="88.9" y1="0" x2="88.9" y2="-25.4" width="0.254" layer="94"/>
+<text x="5.08" y="-25.654" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F8_B">
@@ -20488,17 +20590,18 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 </symbol>
 <symbol name="EFM32TG232F8_E">
 <pin name="PE8/PRS_CH3#1" x="0" y="-2.54" length="middle" />
-<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-5.08" length="middle" />
-<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-7.62" length="middle" />
-<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-10.16" length="middle" />
-<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-12.7" length="middle" />
-<pin name="PE14/LEU0_TX#2" x="0" y="-15.24" length="middle" />
-<pin name="PE15/LEU0_RX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE9/" x="0" y="-5.08" length="middle" />
+<pin name="PE10/TIM1_CC0#1/US0_TX#0" x="0" y="-7.62" length="middle" />
+<pin name="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" x="0" y="-10.16" length="middle" />
+<pin name="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" x="0" y="-12.7" length="middle" />
+<pin name="PE13/ACMP0_O#0/GPIO_EM4WU1/I2C0_SCL#6/LES_ALTEX7/US0_CS#0/US0_TX#3" x="0" y="-15.24" length="middle" />
+<pin name="PE14/LEU0_TX#2" x="0" y="-17.78" length="middle" />
+<pin name="PE15/LEU0_RX#2" x="0" y="-20.32" length="middle" />
 <wire x1="5.08" y1="0" x2="98.425" y2="0" width="0.254" layer="94"/>
-<wire x1="5.08" y1="0" x2="5.08" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-20.32" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="98.425" y1="0" x2="98.425" y2="-20.32" width="0.254" layer="94"/>
-<text x="5.08" y="-20.574" size="1.27" align="top-left" layer="95">&gt;NAME</text>
+<wire x1="5.08" y1="0" x2="5.08" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-22.86" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="98.425" y1="0" x2="98.425" y2="-22.86" width="0.254" layer="94"/>
+<text x="5.08" y="-23.114" size="1.27" align="top-left" layer="95">&gt;NAME</text>
 <text x="5.08" y="0.254" size="1.27" align="bottom-left" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="EFM32TG232F8_F">
@@ -21977,12 +22080,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G230F128 Gecko Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32G230F128_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G230F128_B" x="0" y="-35"/>
-<gate name="C" symbol="EFM32G230F128_C" x="0" y="-60"/>
-<gate name="D" symbol="EFM32G230F128_D" x="0" y="-110"/>
-<gate name="E" symbol="EFM32G230F128_E" x="0" y="-143"/>
-<gate name="F" symbol="EFM32G230F128_F" x="0" y="-173"/>
-<gate name="PWR" symbol="EFM32G230F128_PWR" x="0" y="-198"/>
+<gate name="B" symbol="EFM32G230F128_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32G230F128_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32G230F128_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32G230F128_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32G230F128_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32G230F128_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -21997,6 +22100,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="17"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="18"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="21"/>
@@ -22059,12 +22163,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G230F32 Gecko Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32G230F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G230F32_B" x="0" y="-35"/>
-<gate name="C" symbol="EFM32G230F32_C" x="0" y="-60"/>
-<gate name="D" symbol="EFM32G230F32_D" x="0" y="-110"/>
-<gate name="E" symbol="EFM32G230F32_E" x="0" y="-143"/>
-<gate name="F" symbol="EFM32G230F32_F" x="0" y="-173"/>
-<gate name="PWR" symbol="EFM32G230F32_PWR" x="0" y="-198"/>
+<gate name="B" symbol="EFM32G230F32_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32G230F32_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32G230F32_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32G230F32_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32G230F32_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32G230F32_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -22079,6 +22183,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="17"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="18"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="21"/>
@@ -22141,12 +22246,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G230F64 Gecko Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32G230F64_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G230F64_B" x="0" y="-35"/>
-<gate name="C" symbol="EFM32G230F64_C" x="0" y="-60"/>
-<gate name="D" symbol="EFM32G230F64_D" x="0" y="-110"/>
-<gate name="E" symbol="EFM32G230F64_E" x="0" y="-143"/>
-<gate name="F" symbol="EFM32G230F64_F" x="0" y="-173"/>
-<gate name="PWR" symbol="EFM32G230F64_PWR" x="0" y="-198"/>
+<gate name="B" symbol="EFM32G230F64_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32G230F64_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32G230F64_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32G230F64_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32G230F64_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32G230F64_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -22161,6 +22266,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="17"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="18"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="21"/>
@@ -22469,12 +22575,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G280F128 Gecko Microcontroller in 14mm x 14mm QFP100 package</description>
 <gates>
 <gate name="A" symbol="EFM32G280F128_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G280F128_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G280F128_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G280F128_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G280F128_E" x="0" y="-181"/>
-<gate name="F" symbol="EFM32G280F128_F" x="0" y="-231"/>
-<gate name="PWR" symbol="EFM32G280F128_PWR" x="0" y="-264"/>
+<gate name="B" symbol="EFM32G280F128_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G280F128_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G280F128_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G280F128_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G280F128_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G280F128_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -22486,9 +22592,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="5"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="6"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="7"/>
+<connect gate="A" pin="PA7/" pad="26"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="27"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="28"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="29"/>
+<connect gate="A" pin="PA11/" pad="30"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="33"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="34"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="35"/>
@@ -22502,6 +22610,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -22560,6 +22670,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="84"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="85"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="86"/>
+<connect gate="F" pin="PF9/" pad="87"/>
 <connect gate="PWR" pin="RESETn" pad="36"/>
 <connect gate="PWR" pin="DECOUPLE" pad="59"/>
 <connect gate="PWR" pin="VDD_DREG" pad="57"/>
@@ -22582,12 +22693,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G280F32 Gecko Microcontroller in 14mm x 14mm QFP100 package</description>
 <gates>
 <gate name="A" symbol="EFM32G280F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G280F32_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G280F32_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G280F32_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G280F32_E" x="0" y="-181"/>
-<gate name="F" symbol="EFM32G280F32_F" x="0" y="-231"/>
-<gate name="PWR" symbol="EFM32G280F32_PWR" x="0" y="-264"/>
+<gate name="B" symbol="EFM32G280F32_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G280F32_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G280F32_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G280F32_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G280F32_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G280F32_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -22599,9 +22710,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="5"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="6"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="7"/>
+<connect gate="A" pin="PA7/" pad="26"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="27"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="28"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="29"/>
+<connect gate="A" pin="PA11/" pad="30"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="33"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="34"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="35"/>
@@ -22615,6 +22728,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -22673,6 +22788,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="84"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="85"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="86"/>
+<connect gate="F" pin="PF9/" pad="87"/>
 <connect gate="PWR" pin="RESETn" pad="36"/>
 <connect gate="PWR" pin="DECOUPLE" pad="59"/>
 <connect gate="PWR" pin="VDD_DREG" pad="57"/>
@@ -22695,12 +22811,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G280F64 Gecko Microcontroller in 14mm x 14mm QFP100 package</description>
 <gates>
 <gate name="A" symbol="EFM32G280F64_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G280F64_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G280F64_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G280F64_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G280F64_E" x="0" y="-181"/>
-<gate name="F" symbol="EFM32G280F64_F" x="0" y="-231"/>
-<gate name="PWR" symbol="EFM32G280F64_PWR" x="0" y="-264"/>
+<gate name="B" symbol="EFM32G280F64_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G280F64_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G280F64_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G280F64_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G280F64_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G280F64_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -22712,9 +22828,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="5"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="6"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="7"/>
+<connect gate="A" pin="PA7/" pad="26"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="27"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="28"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="29"/>
+<connect gate="A" pin="PA11/" pad="30"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="33"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="34"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="35"/>
@@ -22728,6 +22846,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -22786,6 +22906,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="84"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="85"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="86"/>
+<connect gate="F" pin="PF9/" pad="87"/>
 <connect gate="PWR" pin="RESETn" pad="36"/>
 <connect gate="PWR" pin="DECOUPLE" pad="59"/>
 <connect gate="PWR" pin="VDD_DREG" pad="57"/>
@@ -22808,12 +22929,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G290F128 Gecko Microcontroller in 10mm x 10mm BGA112 package</description>
 <gates>
 <gate name="A" symbol="EFM32G290F128_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G290F128_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G290F128_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G290F128_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G290F128_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G290F128_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G290F128_PWR" x="0" y="-269"/>
+<gate name="B" symbol="EFM32G290F128_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G290F128_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G290F128_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G290F128_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G290F128_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G290F128_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -22825,9 +22946,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="E3"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="E2"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="E1"/>
+<connect gate="A" pin="PA7/" pad="H4"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="H5"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="J5"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="J6"/>
+<connect gate="A" pin="PA11/" pad="K5"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="J4"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="K3"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="L3"/>
@@ -22841,10 +22964,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -22874,6 +23000,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -22901,6 +23028,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="B7"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="A6"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="B6"/>
+<connect gate="F" pin="PF9/" pad="C6"/>
 <connect gate="PWR" pin="RESETn" pad="K6"/>
 <connect gate="PWR" pin="DECOUPLE" pad="F11"/>
 <connect gate="PWR" pin="VDD_DREG" pad="F8"/>
@@ -22931,12 +23059,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G290F32 Gecko Microcontroller in 10mm x 10mm BGA112 package</description>
 <gates>
 <gate name="A" symbol="EFM32G290F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G290F32_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G290F32_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G290F32_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G290F32_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G290F32_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G290F32_PWR" x="0" y="-269"/>
+<gate name="B" symbol="EFM32G290F32_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G290F32_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G290F32_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G290F32_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G290F32_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G290F32_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -22948,9 +23076,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="E3"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="E2"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="E1"/>
+<connect gate="A" pin="PA7/" pad="H4"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="H5"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="J5"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="J6"/>
+<connect gate="A" pin="PA11/" pad="K5"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="J4"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="K3"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="L3"/>
@@ -22964,10 +23094,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -22997,6 +23130,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -23024,6 +23158,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="B7"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="A6"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="B6"/>
+<connect gate="F" pin="PF9/" pad="C6"/>
 <connect gate="PWR" pin="RESETn" pad="K6"/>
 <connect gate="PWR" pin="DECOUPLE" pad="F11"/>
 <connect gate="PWR" pin="VDD_DREG" pad="F8"/>
@@ -23054,12 +23189,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32G290F64 Gecko Microcontroller in 10mm x 10mm BGA112 package</description>
 <gates>
 <gate name="A" symbol="EFM32G290F64_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32G290F64_B" x="0" y="-45"/>
-<gate name="C" symbol="EFM32G290F64_C" x="0" y="-88"/>
-<gate name="D" symbol="EFM32G290F64_D" x="0" y="-138"/>
-<gate name="E" symbol="EFM32G290F64_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G290F64_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G290F64_PWR" x="0" y="-269"/>
+<gate name="B" symbol="EFM32G290F64_B" x="0" y="-50"/>
+<gate name="C" symbol="EFM32G290F64_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G290F64_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G290F64_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G290F64_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G290F64_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -23071,9 +23206,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/EBI_AD13/TIM0_CDTI1#0/U0_RX#2" pad="E3"/>
 <connect gate="A" pin="PA5/EBI_AD14/LEU1_TX#1/TIM0_CDTI2#0" pad="E2"/>
 <connect gate="A" pin="PA6/EBI_AD15/LEU1_RX#1" pad="E1"/>
+<connect gate="A" pin="PA7/" pad="H4"/>
 <connect gate="A" pin="PA8/TIM2_CC0#0" pad="H5"/>
 <connect gate="A" pin="PA9/TIM2_CC1#0" pad="J5"/>
 <connect gate="A" pin="PA10/TIM2_CC2#0" pad="J6"/>
+<connect gate="A" pin="PA11/" pad="K5"/>
 <connect gate="A" pin="PA12/TIM2_CC0#1" pad="J4"/>
 <connect gate="A" pin="PA13/TIM2_CC1#1" pad="K3"/>
 <connect gate="A" pin="PA14/TIM2_CC2#1" pad="L3"/>
@@ -23087,10 +23224,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -23120,6 +23260,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -23147,6 +23288,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF6/TIM0_CC0#2/U0_TX#0" pad="B7"/>
 <connect gate="F" pin="PF7/TIM0_CC1#2/U0_RX#0" pad="A6"/>
 <connect gate="F" pin="PF8/TIM0_CC2#2" pad="B6"/>
+<connect gate="F" pin="PF9/" pad="C6"/>
 <connect gate="PWR" pin="RESETn" pad="K6"/>
 <connect gate="PWR" pin="DECOUPLE" pad="F11"/>
 <connect gate="PWR" pin="VDD_DREG" pad="F8"/>
@@ -23673,11 +23815,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G880F128_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G880F128_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G880F128_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G880F128_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G880F128_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G880F128_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G880F128_PWR" x="0" y="-271"/>
+<gate name="C" symbol="EFM32G880F128_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G880F128_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G880F128_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G880F128_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G880F128_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -23707,6 +23849,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -23789,11 +23933,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G880F32_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G880F32_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G880F32_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G880F32_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G880F32_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G880F32_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G880F32_PWR" x="0" y="-271"/>
+<gate name="C" symbol="EFM32G880F32_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G880F32_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G880F32_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G880F32_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G880F32_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -23823,6 +23967,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -23905,11 +24051,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G880F64_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G880F64_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G880F64_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G880F64_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G880F64_E" x="0" y="-186"/>
-<gate name="F" symbol="EFM32G880F64_F" x="0" y="-236"/>
-<gate name="PWR" symbol="EFM32G880F64_PWR" x="0" y="-271"/>
+<gate name="C" symbol="EFM32G880F64_C" x="0" y="-98"/>
+<gate name="D" symbol="EFM32G880F64_D" x="0" y="-148"/>
+<gate name="E" symbol="EFM32G880F64_E" x="0" y="-191"/>
+<gate name="F" symbol="EFM32G880F64_F" x="0" y="-241"/>
+<gate name="PWR" symbol="EFM32G880F64_PWR" x="0" y="-276"/>
 </gates>
 <devices>
 <device name="" package="QFP100">
@@ -23939,6 +24085,8 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="24"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="25"/>
+<connect gate="B" pin="PB9/" pad="37"/>
+<connect gate="B" pin="PB10/" pad="38"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="39"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="40"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="42"/>
@@ -24021,11 +24169,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G890F128_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G890F128_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G890F128_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G890F128_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G890F128_E" x="0" y="-191"/>
-<gate name="F" symbol="EFM32G890F128_F" x="0" y="-241"/>
-<gate name="PWR" symbol="EFM32G890F128_PWR" x="0" y="-276"/>
+<gate name="C" symbol="EFM32G890F128_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G890F128_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G890F128_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G890F128_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G890F128_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -24055,10 +24203,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -24088,6 +24239,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1/LCD_SEG29" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2/LCD_SEG30" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3/LCD_SEG31" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -24147,11 +24299,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G890F32_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G890F32_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G890F32_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G890F32_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G890F32_E" x="0" y="-191"/>
-<gate name="F" symbol="EFM32G890F32_F" x="0" y="-241"/>
-<gate name="PWR" symbol="EFM32G890F32_PWR" x="0" y="-276"/>
+<gate name="C" symbol="EFM32G890F32_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G890F32_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G890F32_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G890F32_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G890F32_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -24181,10 +24333,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -24214,6 +24369,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1/LCD_SEG29" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2/LCD_SEG30" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3/LCD_SEG31" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -24273,11 +24429,11 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gates>
 <gate name="A" symbol="EFM32G890F64_A" x="0" y="0"/>
 <gate name="B" symbol="EFM32G890F64_B" x="0" y="-50"/>
-<gate name="C" symbol="EFM32G890F64_C" x="0" y="-93"/>
-<gate name="D" symbol="EFM32G890F64_D" x="0" y="-143"/>
-<gate name="E" symbol="EFM32G890F64_E" x="0" y="-191"/>
-<gate name="F" symbol="EFM32G890F64_F" x="0" y="-241"/>
-<gate name="PWR" symbol="EFM32G890F64_PWR" x="0" y="-276"/>
+<gate name="C" symbol="EFM32G890F64_C" x="0" y="-100"/>
+<gate name="D" symbol="EFM32G890F64_D" x="0" y="-150"/>
+<gate name="E" symbol="EFM32G890F64_E" x="0" y="-200"/>
+<gate name="F" symbol="EFM32G890F64_F" x="0" y="-250"/>
+<gate name="PWR" symbol="EFM32G890F64_PWR" x="0" y="-285"/>
 </gates>
 <devices>
 <device name="" package="BGA112">
@@ -24307,10 +24463,13 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="B" pin="PB6/LCD_SEG23/LCD_COM7/US2_CS#1" pad="G2"/>
 <connect gate="B" pin="PB7/LFXTAL_P/US1_CLK#0" pad="K1"/>
 <connect gate="B" pin="PB8/LFXTAL_N/US1_CS#0" pad="L1"/>
+<connect gate="B" pin="PB9/" pad="J7"/>
+<connect gate="B" pin="PB10/" pad="J8"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1" pad="L5"/>
 <connect gate="B" pin="PB12/DAC0_OUT1/OPAMP_OUT1/LETIM0_OUT1#1" pad="L6"/>
 <connect gate="B" pin="PB13/HFXTAL_P/LEU0_TX#1" pad="L8"/>
 <connect gate="B" pin="PB14/HFXTAL_N/LEU0_RX#1" pad="L9"/>
+<connect gate="B" pin="PB15/" pad="D3"/>
 <connect gate="C" pin="PC0/ACMP0_CH0/PCNT0_S0IN#2/US1_TX#0" pad="H1"/>
 <connect gate="C" pin="PC1/ACMP0_CH1/PCNT0_S1IN#2/US1_RX#0" pad="J1"/>
 <connect gate="C" pin="PC2/ACMP0_CH2/US2_TX#0" pad="H2"/>
@@ -24340,6 +24499,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD10/EBI_CS1/LCD_SEG29" pad="A5"/>
 <connect gate="D" pin="PD11/EBI_CS2/LCD_SEG30" pad="B5"/>
 <connect gate="D" pin="PD12/EBI_CS3/LCD_SEG31" pad="C5"/>
+<connect gate="D" pin="PD13/" pad="C4"/>
 <connect gate="D" pin="PD14/I2C0_SDA#3" pad="H3"/>
 <connect gate="D" pin="PD15/I2C0_SCL#3" pad="J3"/>
 <connect gate="E" pin="PE0/PCNT0_S0IN#1/U0_TX#1" pad="E9"/>
@@ -25229,7 +25389,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32GG295F1024_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32GG295F1024_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32GG295F1024_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32GG295F1024_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32GG295F1024_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -25326,6 +25486,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -25366,7 +25527,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32GG295F512_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32GG295F512_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32GG295F512_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32GG295F512_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32GG295F512_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -25463,6 +25624,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -27431,7 +27593,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32GG895F1024_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32GG895F1024_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32GG895F1024_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32GG895F1024_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32GG895F1024_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -27528,6 +27690,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -27568,7 +27731,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32GG895F512_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32GG895F512_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32GG895F512_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32GG895F512_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32GG895F512_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -27665,6 +27828,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -29220,7 +29384,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG295F128_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG295F128_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG295F128_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG295F128_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG295F128_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -29317,6 +29481,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -29357,7 +29522,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG295F256_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG295F256_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG295F256_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG295F256_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG295F256_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -29454,6 +29619,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -29494,7 +29660,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG295F64_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG295F64_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG295F64_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG295F64_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG295F64_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -29591,6 +29757,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -31697,7 +31864,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG895F128_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG895F128_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG895F128_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG895F128_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG895F128_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -31794,6 +31961,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -31834,7 +32002,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG895F256_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG895F256_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG895F256_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG895F256_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG895F256_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -31931,6 +32099,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -31971,7 +32140,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <gate name="D" symbol="EFM32LG895F64_D" x="0" y="-150"/>
 <gate name="E" symbol="EFM32LG895F64_E" x="0" y="-200"/>
 <gate name="F" symbol="EFM32LG895F64_F" x="0" y="-250"/>
-<gate name="PWR" symbol="EFM32LG895F64_PWR" x="0" y="-290"/>
+<gate name="PWR" symbol="EFM32LG895F64_PWR" x="0" y="-293"/>
 </gates>
 <devices>
 <device name="" package="BGA120">
@@ -32068,6 +32237,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="F" pin="PF9/EBI_REn#1/ETM_TD0#1/LCD_SEG27" pad="C7"/>
 <connect gate="F" pin="PF10/U1_TX#1" pad="B13"/>
 <connect gate="F" pin="PF11/U1_RX#1" pad="A13"/>
+<connect gate="F" pin="PF12/" pad="B11"/>
 <connect gate="PWR" pin="RESETn" pad="M7"/>
 <connect gate="PWR" pin="DECOUPLE" pad="J13"/>
 <connect gate="PWR" pin="USB_VBUS" pad="B12"/>
@@ -34253,12 +34423,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG222F16 Tiny Microcontroller in 7mm x 7mm QFP48 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG222F16_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG222F16_B" x="0" y="-17"/>
-<gate name="C" symbol="EFM32TG222F16_C" x="0" y="-39"/>
-<gate name="D" symbol="EFM32TG222F16_D" x="0" y="-79"/>
-<gate name="E" symbol="EFM32TG222F16_E" x="0" y="-99"/>
-<gate name="F" symbol="EFM32TG222F16_F" x="0" y="-119"/>
-<gate name="PWR" symbol="EFM32TG222F16_PWR" x="0" y="-144"/>
+<gate name="B" symbol="EFM32TG222F16_B" x="0" y="-25"/>
+<gate name="C" symbol="EFM32TG222F16_C" x="0" y="-47"/>
+<gate name="D" symbol="EFM32TG222F16_D" x="0" y="-87"/>
+<gate name="E" symbol="EFM32TG222F16_E" x="0" y="-107"/>
+<gate name="F" symbol="EFM32TG222F16_F" x="0" y="-127"/>
+<gate name="PWR" symbol="EFM32TG222F16_PWR" x="0" y="-152"/>
 </gates>
 <devices>
 <device name="" package="QFP48">
@@ -34266,6 +34436,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" pad="1"/>
 <connect gate="A" pin="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" pad="2"/>
 <connect gate="A" pin="PA2/CMU_CLK0#0/TIM0_CC2#0,1" pad="3"/>
+<connect gate="A" pin="PA8/" pad="13"/>
+<connect gate="A" pin="PA9/" pad="14"/>
+<connect gate="A" pin="PA10/" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="11"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="12"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="17"/>
@@ -34316,12 +34489,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG222F32 Tiny Microcontroller in 7mm x 7mm QFP48 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG222F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG222F32_B" x="0" y="-17"/>
-<gate name="C" symbol="EFM32TG222F32_C" x="0" y="-39"/>
-<gate name="D" symbol="EFM32TG222F32_D" x="0" y="-79"/>
-<gate name="E" symbol="EFM32TG222F32_E" x="0" y="-99"/>
-<gate name="F" symbol="EFM32TG222F32_F" x="0" y="-119"/>
-<gate name="PWR" symbol="EFM32TG222F32_PWR" x="0" y="-144"/>
+<gate name="B" symbol="EFM32TG222F32_B" x="0" y="-25"/>
+<gate name="C" symbol="EFM32TG222F32_C" x="0" y="-47"/>
+<gate name="D" symbol="EFM32TG222F32_D" x="0" y="-87"/>
+<gate name="E" symbol="EFM32TG222F32_E" x="0" y="-107"/>
+<gate name="F" symbol="EFM32TG222F32_F" x="0" y="-127"/>
+<gate name="PWR" symbol="EFM32TG222F32_PWR" x="0" y="-152"/>
 </gates>
 <devices>
 <device name="" package="QFP48">
@@ -34329,6 +34502,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" pad="1"/>
 <connect gate="A" pin="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" pad="2"/>
 <connect gate="A" pin="PA2/CMU_CLK0#0/TIM0_CC2#0,1" pad="3"/>
+<connect gate="A" pin="PA8/" pad="13"/>
+<connect gate="A" pin="PA9/" pad="14"/>
+<connect gate="A" pin="PA10/" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="11"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="12"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="17"/>
@@ -34379,12 +34555,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG222F8 Tiny Microcontroller in 7mm x 7mm QFP48 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG222F8_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG222F8_B" x="0" y="-17"/>
-<gate name="C" symbol="EFM32TG222F8_C" x="0" y="-39"/>
-<gate name="D" symbol="EFM32TG222F8_D" x="0" y="-79"/>
-<gate name="E" symbol="EFM32TG222F8_E" x="0" y="-99"/>
-<gate name="F" symbol="EFM32TG222F8_F" x="0" y="-119"/>
-<gate name="PWR" symbol="EFM32TG222F8_PWR" x="0" y="-144"/>
+<gate name="B" symbol="EFM32TG222F8_B" x="0" y="-25"/>
+<gate name="C" symbol="EFM32TG222F8_C" x="0" y="-47"/>
+<gate name="D" symbol="EFM32TG222F8_D" x="0" y="-87"/>
+<gate name="E" symbol="EFM32TG222F8_E" x="0" y="-107"/>
+<gate name="F" symbol="EFM32TG222F8_F" x="0" y="-127"/>
+<gate name="PWR" symbol="EFM32TG222F8_PWR" x="0" y="-152"/>
 </gates>
 <devices>
 <device name="" package="QFP48">
@@ -34392,6 +34568,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA0/GPIO_EM4WU0/I2C0_SDA#0/LEU0_RX#4/PRS_CH0#0/TIM0_CC0#0,1,4" pad="1"/>
 <connect gate="A" pin="PA1/CMU_CLK1#0/I2C0_SCL#0/PRS_CH1#0/TIM0_CC1#0,1" pad="2"/>
 <connect gate="A" pin="PA2/CMU_CLK0#0/TIM0_CC2#0,1" pad="3"/>
+<connect gate="A" pin="PA8/" pad="13"/>
+<connect gate="A" pin="PA9/" pad="14"/>
+<connect gate="A" pin="PA10/" pad="15"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="11"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="12"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="17"/>
@@ -34442,12 +34621,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG230F16 Tiny Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG230F16_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG230F16_B" x="0" y="-27"/>
-<gate name="C" symbol="EFM32TG230F16_C" x="0" y="-52"/>
-<gate name="D" symbol="EFM32TG230F16_D" x="0" y="-102"/>
-<gate name="E" symbol="EFM32TG230F16_E" x="0" y="-135"/>
-<gate name="F" symbol="EFM32TG230F16_F" x="0" y="-162"/>
-<gate name="PWR" symbol="EFM32TG230F16_PWR" x="0" y="-187"/>
+<gate name="B" symbol="EFM32TG230F16_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32TG230F16_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32TG230F16_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32TG230F16_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32TG230F16_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32TG230F16_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -34459,6 +34638,10 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
 <connect gate="A" pin="PA6/GPIO_EM4WU1" pad="7"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34491,6 +34674,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="56"/>
+<connect gate="E" pin="PE9/" pad="57"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="58"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="59"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="60"/>
@@ -34520,12 +34704,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG230F32 Tiny Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG230F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG230F32_B" x="0" y="-27"/>
-<gate name="C" symbol="EFM32TG230F32_C" x="0" y="-52"/>
-<gate name="D" symbol="EFM32TG230F32_D" x="0" y="-102"/>
-<gate name="E" symbol="EFM32TG230F32_E" x="0" y="-135"/>
-<gate name="F" symbol="EFM32TG230F32_F" x="0" y="-162"/>
-<gate name="PWR" symbol="EFM32TG230F32_PWR" x="0" y="-187"/>
+<gate name="B" symbol="EFM32TG230F32_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32TG230F32_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32TG230F32_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32TG230F32_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32TG230F32_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32TG230F32_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -34537,6 +34721,10 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
 <connect gate="A" pin="PA6/GPIO_EM4WU1" pad="7"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34569,6 +34757,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="56"/>
+<connect gate="E" pin="PE9/" pad="57"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="58"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="59"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="60"/>
@@ -34598,12 +34787,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG230F8 Tiny Microcontroller in 9mm x 9mm QFN64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG230F8_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG230F8_B" x="0" y="-27"/>
-<gate name="C" symbol="EFM32TG230F8_C" x="0" y="-52"/>
-<gate name="D" symbol="EFM32TG230F8_D" x="0" y="-102"/>
-<gate name="E" symbol="EFM32TG230F8_E" x="0" y="-135"/>
-<gate name="F" symbol="EFM32TG230F8_F" x="0" y="-162"/>
-<gate name="PWR" symbol="EFM32TG230F8_PWR" x="0" y="-187"/>
+<gate name="B" symbol="EFM32TG230F8_B" x="0" y="-38"/>
+<gate name="C" symbol="EFM32TG230F8_C" x="0" y="-63"/>
+<gate name="D" symbol="EFM32TG230F8_D" x="0" y="-113"/>
+<gate name="E" symbol="EFM32TG230F8_E" x="0" y="-146"/>
+<gate name="F" symbol="EFM32TG230F8_F" x="0" y="-176"/>
+<gate name="PWR" symbol="EFM32TG230F8_PWR" x="0" y="-201"/>
 </gates>
 <devices>
 <device name="" package="QFN64">
@@ -34615,6 +34804,10 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
 <connect gate="A" pin="PA6/GPIO_EM4WU1" pad="7"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
+<connect gate="A" pin="PA15/" pad="64"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34647,6 +34840,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="56"/>
+<connect gate="E" pin="PE9/" pad="57"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="58"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="59"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="60"/>
@@ -34676,12 +34870,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG232F16 Tiny Microcontroller in 10mm x 10mm QFP64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG232F16_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG232F16_B" x="0" y="-25"/>
-<gate name="C" symbol="EFM32TG232F16_C" x="0" y="-47"/>
-<gate name="D" symbol="EFM32TG232F16_D" x="0" y="-97"/>
-<gate name="E" symbol="EFM32TG232F16_E" x="0" y="-130"/>
-<gate name="F" symbol="EFM32TG232F16_F" x="0" y="-157"/>
-<gate name="PWR" symbol="EFM32TG232F16_PWR" x="0" y="-182"/>
+<gate name="B" symbol="EFM32TG232F16_B" x="0" y="-33"/>
+<gate name="C" symbol="EFM32TG232F16_C" x="0" y="-55"/>
+<gate name="D" symbol="EFM32TG232F16_D" x="0" y="-105"/>
+<gate name="E" symbol="EFM32TG232F16_E" x="0" y="-138"/>
+<gate name="F" symbol="EFM32TG232F16_F" x="0" y="-168"/>
+<gate name="PWR" symbol="EFM32TG232F16_PWR" x="0" y="-193"/>
 </gates>
 <devices>
 <device name="" package="QFP64">
@@ -34692,6 +34886,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA3/LES_ALTEX2" pad="4"/>
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34723,6 +34920,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="57"/>
+<connect gate="E" pin="PE9/" pad="58"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="59"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="60"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="61"/>
@@ -34754,12 +34952,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG232F32 Tiny Microcontroller in 10mm x 10mm QFP64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG232F32_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG232F32_B" x="0" y="-25"/>
-<gate name="C" symbol="EFM32TG232F32_C" x="0" y="-47"/>
-<gate name="D" symbol="EFM32TG232F32_D" x="0" y="-97"/>
-<gate name="E" symbol="EFM32TG232F32_E" x="0" y="-130"/>
-<gate name="F" symbol="EFM32TG232F32_F" x="0" y="-157"/>
-<gate name="PWR" symbol="EFM32TG232F32_PWR" x="0" y="-182"/>
+<gate name="B" symbol="EFM32TG232F32_B" x="0" y="-33"/>
+<gate name="C" symbol="EFM32TG232F32_C" x="0" y="-55"/>
+<gate name="D" symbol="EFM32TG232F32_D" x="0" y="-105"/>
+<gate name="E" symbol="EFM32TG232F32_E" x="0" y="-138"/>
+<gate name="F" symbol="EFM32TG232F32_F" x="0" y="-168"/>
+<gate name="PWR" symbol="EFM32TG232F32_PWR" x="0" y="-193"/>
 </gates>
 <devices>
 <device name="" package="QFP64">
@@ -34770,6 +34968,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA3/LES_ALTEX2" pad="4"/>
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34801,6 +35002,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="57"/>
+<connect gate="E" pin="PE9/" pad="58"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="59"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="60"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="61"/>
@@ -34832,12 +35034,12 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <description>EFM32TG232F8 Tiny Microcontroller in 10mm x 10mm QFP64 package</description>
 <gates>
 <gate name="A" symbol="EFM32TG232F8_A" x="0" y="0"/>
-<gate name="B" symbol="EFM32TG232F8_B" x="0" y="-25"/>
-<gate name="C" symbol="EFM32TG232F8_C" x="0" y="-47"/>
-<gate name="D" symbol="EFM32TG232F8_D" x="0" y="-97"/>
-<gate name="E" symbol="EFM32TG232F8_E" x="0" y="-130"/>
-<gate name="F" symbol="EFM32TG232F8_F" x="0" y="-157"/>
-<gate name="PWR" symbol="EFM32TG232F8_PWR" x="0" y="-182"/>
+<gate name="B" symbol="EFM32TG232F8_B" x="0" y="-33"/>
+<gate name="C" symbol="EFM32TG232F8_C" x="0" y="-55"/>
+<gate name="D" symbol="EFM32TG232F8_D" x="0" y="-105"/>
+<gate name="E" symbol="EFM32TG232F8_E" x="0" y="-138"/>
+<gate name="F" symbol="EFM32TG232F8_F" x="0" y="-168"/>
+<gate name="PWR" symbol="EFM32TG232F8_PWR" x="0" y="-193"/>
 </gates>
 <devices>
 <device name="" package="QFP64">
@@ -34848,6 +35050,9 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="A" pin="PA3/LES_ALTEX2" pad="4"/>
 <connect gate="A" pin="PA4/LES_ALTEX3" pad="5"/>
 <connect gate="A" pin="PA5/LES_ALTEX4" pad="6"/>
+<connect gate="A" pin="PA8/" pad="17"/>
+<connect gate="A" pin="PA9/" pad="18"/>
+<connect gate="A" pin="PA10/" pad="19"/>
 <connect gate="B" pin="PB7/LFXTAL_P/TIM1_CC0#3/US0_TX#4/US1_CLK#0" pad="15"/>
 <connect gate="B" pin="PB8/LFXTAL_N/TIM1_CC1#3/US0_RX#4/US1_CS#0" pad="16"/>
 <connect gate="B" pin="PB11/DAC0_OUT0/OPAMP_OUT0/LETIM0_OUT0#1/TIM1_CC2#3" pad="21"/>
@@ -34879,6 +35084,7 @@ To the extent possible under law, &lt;b&gt;Visweswara R (@viswesr)&lt;/b&gt; has
 <connect gate="D" pin="PD7/ACMP1_O#2/ADC0_CH7/CMU_CLK0#2/DAC0_N1/OPAMP_N1/I2C0_SCL#1/LES_ALTEX1/LETIM0_OUT1#0/PCNT0_S1IN#3/TIM1_CC1#4/US1_TX#2" pad="35"/>
 <connect gate="D" pin="PD8/CMU_CLK1#1" pad="36"/>
 <connect gate="E" pin="PE8/PRS_CH3#1" pad="57"/>
+<connect gate="E" pin="PE9/" pad="58"/>
 <connect gate="E" pin="PE10/TIM1_CC0#1/US0_TX#0" pad="59"/>
 <connect gate="E" pin="PE11/LES_ALTEX5/TIM1_CC1#1/US0_RX#0" pad="60"/>
 <connect gate="E" pin="PE12/CMU_CLK1#2/I2C0_SDA#6/LES_ALTEX6/TIM1_CC2#1/US0_CLK#0/US0_RX#3" pad="61"/>
